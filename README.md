@@ -1,4 +1,4 @@
-# ProjectsinJava
+# Projects in Java
 
 My simple projects to train the language
 
