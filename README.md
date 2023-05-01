@@ -11,9 +11,6 @@ Alguns projetos simples para treinar a linguagem
 <h3>Login</h3>
 <a href> </a>
 
-<h3>Rapier</h3>
-<a href> </a>
-
 <h3>Bank</h3>
 <a href> </a>
 
